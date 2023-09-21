@@ -1,0 +1,60 @@
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    color: white;
+    display: inline;
+    margin-right: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+h1 {
+  font-size: 30;
+  margin-right: 20px;
+  color:white;
+}
+h2 {
+   text-align: center;
+  color:pink;
+}
+
+/* Не текст*/
+img {
+    width: 20%;
+    height: 20%;
+    display: block;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Wavefont', cursive;
