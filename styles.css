@@ -4,6 +4,12 @@ header {
     padding: 10px;
 }
 
+head {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Wavefont', cursive;
+}
+
 nav {
     display: flex;
     justify-content: space-between;
@@ -54,7 +60,3 @@ table, th, td {
     border: 1px solid #ccc;
     padding: 10px;
 }
-
-font-family: 'Josefin Sans', sans-serif;
-font-family: 'Roboto', sans-serif;
-font-family: 'Wavefont', cursive;
